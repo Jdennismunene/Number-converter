@@ -18,7 +18,7 @@ body {
 }
 .container {
     position: absolute;
-    left: 30%;
+    left: 20%;
     background: transparent;
 }
 .container h1 {
@@ -26,6 +26,7 @@ body {
     left: 7%;
     top: 0%;
     color: #fff;
+    font-size: 28px;
 }
 .container .decimalNo {
     position: relative;
