@@ -29,29 +29,3 @@ function reset() {
     document.getElementById('decNo').value = '';
     document.getElementById('hexNo').value = '';
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-// let InpDec = document.getElementById("inp-dec");
-// let SaveEl = document.getElementById("save-el");
-// let PrintEl = document.getElementById("print-el");
-
-// function save() {
-//     SaveEl.textContent = "Save Decimal Number: " + InpDec.value;
-// }
-
-// function btn() {
-//     let decNo = InpDec.value;
-//     let binNo = " " +  decNo.toString(2);
-//     PrintEl.textContent = binNo;
-// }
